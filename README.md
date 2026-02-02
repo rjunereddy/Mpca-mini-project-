@@ -1,6 +1,6 @@
 # MPCA Mini-Projects 2026
 **PES University, Department of Computer Science & Engineering**  
-**Course: UE22CS251B - Microprocessor & Computer Architecture Lab**
+**Course: UE24CS251B - Microprocessor & Computer Architecture Lab**
 
 ## 📋 Overview
 This repository contains mini-project titles, guidelines, and resources for MPCA course. Students must select one project and complete it by the deadline.
